@@ -22,9 +22,11 @@ CORPUS_DIR = Path(__file__).parent / "corpus"
 # Map filename → act label used in chunk IDs
 ACT_MAP = {
     "IPC.txt": "IPC",
+    "BPS.txt": "BPS",
     "BNS.txt": "BNS",
     "BNSS.txt": "BNSS",
     "CrPC.txt": "CrPC",
+    "MVA.txt": "MVA",
 }
 
 

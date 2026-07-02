@@ -2,17 +2,16 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://127.0.0.1:8000/api",
+  baseURL: import.meta.env.VITE_API_BASE_URL || "/api",
   headers: {
     "Content-Type": "application/json",
   },
 });
 
-export async function askQuestion(question) {
-  const { data } = await api.post("/query", {
-    question,
-    language: "en",
-  });
+export async function askQuestion({ question, language = "en", thread_id = null }) {
+  const payload = { question, language };
+  if (thread_id) payload.thread_id = thread_id;
 
+  const { data } = await api.post("/query", payload);
   return data;
 }

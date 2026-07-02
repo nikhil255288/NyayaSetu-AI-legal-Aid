@@ -1,8 +1,8 @@
 // frontend/src/components/ChatPanel.jsx
 
 import { useState, useRef, useEffect } from "react";
-import axios from "axios";
 
+import { askQuestion } from "../api/client";
 import DualOutput from "./DualOutput";
 import VoiceButton from "./VoiceButton";
 import DocumentUpload from "./DocumentUpload";
@@ -56,14 +56,11 @@ export default function ChatPanel() {
     ]);
 
     try {
-      const { data } = await axios.post(
-        "http://localhost:8000/api/query",
-        {
-          question: text,
-          language: "auto",
-          thread_id: threadId,
-        }
-      );
+      const data = await askQuestion({
+        question: text,
+        language: "auto",
+        thread_id: threadId,
+      });
 
       // Save thread ID
       if (data.thread_id) {

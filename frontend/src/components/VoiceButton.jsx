@@ -54,7 +54,7 @@ export default function VoiceButton({ onResult }) {
     formData.append("language", "en");
 
     try {
-      const res = await fetch("http://localhost:8000/api/voice", {
+      const res = await fetch("/api/voice", {
         method: "POST",
         body: formData,
       });

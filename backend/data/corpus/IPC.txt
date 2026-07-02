@@ -10,13 +10,83 @@ CHAPTER XVI — OF OFFENCES AFFECTING THE HUMAN BODY
 
 Section 299. Culpable homicide.
 Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide.
+DEFINITION: Death caused without premeditation or deliberate intent.
+CONSEQUENCES: Criminal record, civil liability to victim's family.
+
+Section 300. Definition of murder.
+Except in the cases herein after excepted, culpable homicide by which the offender knows to be likely to cause death, is designated as "murder."
 
 Section 302. Punishment for murder.
 Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.
+PUNISHMENT: Death penalty OR life imprisonment (minimum 14 years to life)
+FINE: Mandatory fine amount determined by court
+PENALTY DURATION: Minimum 14 years, up to life imprisonment or death
+CONSEQUENCES: Criminal record, loss of voting rights, ineligible for public office, social stigma, victim's family gets compensation.
+
+Section 304. Punishment for causing death by negligence.
+Whoever causes death by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both.
+PUNISHMENT: Imprisonment up to 2 years OR fine up to Rs. 1,000 OR both
+PENALTY DURATION: Maximum 2 years imprisonment
+CONSEQUENCES: Criminal record, civil liability, may affect employment.
+
+Section 323. Punishment for voluntarily causing hurt.
+Whoever, except in the cases provided by law, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two hundred and fifty rupees, or with both.
+PUNISHMENT: Imprisonment up to 3 months OR fine up to Rs. 250 OR both
+PENALTY DURATION: Maximum 3 months
+CONSEQUENCES: Criminal record, victim may file civil suit for damages.
 
 Section 376. Punishment for rape.
-(1) Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life.
-(2) Whoever commits an offence punishable under sub-section (1) in any of the following circumstances shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life.
+(1) Whoever commits rape shall be punished with rigorous imprisonment of either description for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine.
+(2) Whoever commits an offence punishable under sub-section (1) in any of the following circumstances, namely:
+(a) during communal or sectarian violence; or
+(b) by a public servant; or
+(c) by a person on active duty in the armed forces or paramilitary force;
+shall be punished with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine.
+
+PUNISHMENT: Rigorous imprisonment minimum 10 years to life
+FINE: Mandatory fine (amount determined by court)
+PENALTY DURATION: Minimum 10 years to life imprisonment
+CONSEQUENCES: Criminal record, sexual offender registry, lifetime supervision, victim gets compensation, loss of employment in many sectors, social rehabilitation required.
 
 Section 379. Punishment for theft.
-Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. 
+Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to one thousand rupees, or with both.
+PUNISHMENT: Imprisonment up to 3 years OR fine up to Rs. 1,000 OR both
+PENALTY DURATION: Maximum 3 years imprisonment
+CONSEQUENCES: Criminal record, restitution to victim, affects employment and loan eligibility.
+
+Section 392. Punishment for dacoity.
+Whoever commits or attempts to commit robbery or dacoity, shall be punished with rigorous imprisonment for a term which shall not be less than three years but which may extend to ten years, and shall also be liable to fine.
+PUNISHMENT: Rigorous imprisonment minimum 3 years to maximum 10 years
+FINE: Mandatory fine (amount determined by court)
+PENALTY DURATION: Minimum 3 years to maximum 10 years imprisonment
+CONSEQUENCES: Criminal record, compensation to victims, ineligible for many jobs, victim may file civil suit.
+
+Section 420. Cheating and dishonestly inducing delivery of property.
+Whoever cheats and by means of such cheating dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
+PUNISHMENT: Imprisonment up to 7 years AND fine
+PENALTY DURATION: Maximum 7 years imprisonment
+CONSEQUENCES: Criminal record, restitution to defrauded person, loss of professional licenses, civil liability.
+
+Section 498A. Cruelty by husband or his relatives.
+Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine which may extend to one thousand rupees.
+PUNISHMENT: Imprisonment up to 3 years AND/OR fine up to Rs. 1,000
+PENALTY DURATION: Maximum 3 years imprisonment
+CONSEQUENCES: Criminal record, restraining order, victim protection order, counseling mandated, compensation to victim.
+
+CHAPTER XVIII — OF OFFENCES RELATING TO ELECTIONS
+
+Section 171. Wearing uniform or military decoration in wrongful manner.
+Whoever, not being a member of any military, naval or air force of the Union, wears the uniform of that force, or wears a uniform so nearly resembling that uniform as to be likely to deceive, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two hundred and fifty rupees, or with both.
+PUNISHMENT: Imprisonment up to 3 months OR fine up to Rs. 250 OR both
+PENALTY DURATION: Maximum 3 months imprisonment
+CONSEQUENCES: Criminal record, possible social consequences.
+
+Section 506. Criminal intimidation.
+Whoever commits an offence which is defined or made punishable by this Code, or by any other law for the time being in force, is said to commit that offence "criminally" when he does that act with criminal knowledge or criminal intent. An offence is said to be committed "voluntarily" by a person who causes it by an act which he knows or believes to be likely to cause it. An offence is said to be committed "negligently" by the person who causes it by doing any act in an rash or negligent manner.
+
+Section 506. Criminal intimidation.
+Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is legally entitled to do, or to omit to do any act which he is legally entitled to omit to do, as the case may be, commits criminal intimidation.
+Punishment: Shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to five hundred rupees, or with both.
+PUNISHMENT: Imprisonment up to 2 years OR fine up to Rs. 500 OR both
+PENALTY DURATION: Maximum 2 years imprisonment
+CONSEQUENCES: Criminal record, restraining order against victim, potential civil suit. 

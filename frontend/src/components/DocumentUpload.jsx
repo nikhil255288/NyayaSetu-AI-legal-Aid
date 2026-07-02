@@ -13,7 +13,7 @@ export default function DocumentUpload({ onResult }) {
     const form = new FormData();
     form.append("file", file);
     try {
-      const res = await fetch("http://localhost:8000/api/upload", {
+      const res = await fetch("/api/upload", {
         method: "POST",
         body: form,
       });

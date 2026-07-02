@@ -1,0 +1,520 @@
+BHARATIYA NYAYA SANHITA (BPS), 2023
+(Replaces Indian Penal Code, effective July 1, 2023)
+
+PART I — GENERAL PROVISIONS
+
+CHAPTER 1 — PRELIMINARY
+
+Section 1. Short title, extent and commencement.
+This Act may be called the Bharatiya Nyaya Sanhita, 2023. It extends to the whole of India.
+
+Section 2. Definitions.
+In this Sanhita, unless the context otherwise requires:
+- "Act" includes omission;
+- "Offence" means an act or omission made punishable by any law for the time being in force;
+- "Punishment" includes fine, rigorous imprisonment, simple imprisonment, or any combination thereof;
+- "Voluntarily" means with conscious intention or in reckless disregard of consequences.
+
+PART II — OFFENCES AGAINST THE PERSON
+
+CHAPTER 3 — OFFENCES RELATING TO LIFE
+
+Section 100. Murder defined.
+Murder is culpable homicide with any of the following characteristics:
+(a) Act is done with intention of causing death;
+(b) Act is done with knowledge that it is so imminently dangerous that in all probability it must cause death;
+(c) Act is done in attempt to cause bodily injury to any person and that person dies.
+
+PUNISHMENT: Death or life imprisonment, and fine.
+PENALTY DURATION: Minimum 14 years to life or death
+CONSEQUENCES: Criminal record, loss of voting rights, ineligible for public office, victim's family gets compensation.
+
+Section 101. Punishment for murder.
+Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.
+
+Section 102. Culpable homicide not amounting to murder.
+Whoever causes death by doing any act which he knows is likely to cause death, but without any intention of causing death, shall be punished with imprisonment of either description for a term which may extend to life or imprisonment up to 15 years, or with fine which may extend to one lakh rupees, or with both.
+
+PUNISHMENT: Imprisonment up to 15 years OR fine up to Rs. 1,00,000 OR both
+PENALTY DURATION: Maximum 15 years imprisonment
+CONSEQUENCES: Criminal record, victim's family compensation, suspension from public office.
+
+Section 103. Attempt to commit murder.
+Whoever makes any attempt to commit an offence punishable under section 100 with such intention or knowledge as is herein described shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine which may extend to one lakh rupees.
+
+PUNISHMENT: Imprisonment up to 10 years AND fine up to Rs. 1,00,000
+PENALTY DURATION: Maximum 10 years imprisonment
+CONSEQUENCES: Criminal record, may face enhanced charges if victim dies later.
+
+CHAPTER 4 — GENERAL EXCEPTIONS
+
+Section 104. Acts of a person who, at the time of doing it, by reason of unsoundness of mind, does not know the nature of the act or that he is doing what is wrong.
+(1) Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, does not know the nature of the act, or does not know that he is doing what is wrong or that he is doing what is contrary to law.
+
+Section 105. Act of a person, at the time of doing it, does not know or is incapable of knowing the nature or quality of such act.
+In any case in which it is alleged that by reason of unsoundness of mind or otherwise, a person did not know the nature of the act, the burden of proof lies upon the accused.
+
+CHAPTER 5 — SEXUAL OFFENCES
+
+Section 63. Rape.
+A man is said to commit rape if, he penetrates his penis:
+(a) Into the vagina, mouth, anus or urethra of a woman;
+(b) Into the vagina, mouth, anus or urethra of another person by insertion of any object or a part of the body, without consent or by force.
+
+ELEMENTS:
+- Non-consensual penetration
+- Against the woman's will or without consent
+- By force, intimidation, or deception
+
+Section 64. Punishment for rape.
+(1) Whoever commits rape shall be punished with rigorous imprisonment of not less than 10 years but which may extend to life imprisonment.
+(2) Whoever commits rape of a woman under 16 years of age shall be punished with rigorous imprisonment not less than 20 years extending to life imprisonment.
+(3) Rape by public servant, armed forces member, or during communal violence: rigorous imprisonment not less than 20 years extending to life.
+
+PUNISHMENT: 
+- General rape: Minimum 10 years to life imprisonment
+- Rape of minor (under 16): Minimum 20 years to life
+- Rape by authority figures: Minimum 20 years to life
+
+FINE: Mandatory fine determined by court
+PENALTY DURATION: Minimum 10-20 years to life imprisonment depending on circumstances
+CONSEQUENCES: Sexual offender registry, lifetime supervision, victim gets compensation, psychological counseling mandatory.
+
+Section 65. Attempt to commit rape.
+Whoever attempts to commit rape shall be punished with rigorous imprisonment not less than 5 years extending to life imprisonment, and also fine.
+
+PUNISHMENT: Imprisonment 5 years to life AND fine
+CONSEQUENCES: Criminal record, may escalate if victim harmed, restraining order likely.
+
+Section 66. Causing bodily hurt with intent to commit rape.
+Whoever causes hurt to any person, knowing it is likely to be used to commit or attempt rape, shall be punished with imprisonment extending to 7 years and fine.
+
+CHAPTER 6 — HURT AND GRIEVOUS INJURY
+
+Section 111. Definitions of hurt.
+Hurt is the act of inflicting suffering on any bodily part or feeling pain, but not amounting to grievous injury.
+
+Section 112. Voluntarily causing hurt.
+Whoever voluntarily causes hurt shall be punished with imprisonment up to 3 months, or fine up to Rs. 250, or both.
+
+PUNISHMENT: Imprisonment up to 3 months OR fine up to Rs. 250 OR both
+PENALTY DURATION: Maximum 3 months
+CONSEQUENCES: Criminal record, victim may file civil suit.
+
+Section 113. Causing hurt by act endangering life.
+Whoever causes hurt by doing any act which he knows is likely to endanger human life, shall be punished with imprisonment up to 6 months or fine up to Rs. 500 or both.
+
+PUNISHMENT: Imprisonment up to 6 months OR fine up to Rs. 500 OR both
+PENALTY DURATION: Maximum 6 months
+CONSEQUENCES: Criminal record, victim compensation possible.
+
+Section 114. Definition of grievous injury.
+Grievous injuries include: fractures, permanent disfigurement, loss of limbs, loss of eyesight, loss of hearing, permanent imbecility, insanity, permanent privation of the powers of any member or internal organ.
+
+Section 115. Voluntarily causing grievous hurt.
+Whoever voluntarily causes grievous hurt shall be punished with imprisonment up to 2 years or fine up to Rs. 5,000 or both.
+
+PUNISHMENT: Imprisonment up to 2 years OR fine up to Rs. 5,000 OR both
+PENALTY DURATION: Maximum 2 years
+CONSEQUENCES: Criminal record, victim compensation, may face enhanced charges.
+
+CHAPTER 7 — CRIMINAL INTIMIDATION AND INSULT
+
+Section 132. Criminal intimidation.
+Whoever threatens another with any injury to his person, reputation or property with intent to cause alarm to that person, commits criminal intimidation.
+
+PUNISHMENT: Imprisonment up to 2 years OR fine up to Rs. 500 OR both
+CONSEQUENCES: Restraining order, criminal record.
+
+Section 135. Defamation.
+Whoever publishes, exhibits, circulates or causes to be published, exhibited or circulated any statement or matter which is false, with the intention of lowering another's reputation or knowing it likely to lower the reputation of another person, commits defamation.
+
+PUNISHMENT: Imprisonment up to 2 years OR fine up to Rs. 5,000 OR both
+CONSEQUENCES: Criminal record, civil liability for damages, victim gets compensation.
+
+CHAPTER 7A — HARASSMENT, STALKING AND ABUSE
+
+Section 141. Stalking defined.
+Stalking is when a person knowingly or intentionally:
+(a) Follows another person;
+(b) Contacts or attempts to contact such person without consent;
+(c) Publishes any material concerning that person without consent;
+(d) Monitors the use by a person of internet, email or any other form of electronic communication;
+(e) Engages in any conduct making implicit or explicit threat;
+with an intention to cause fear of injury or knowing that such conduct will cause fear of injury to that person.
+
+Section 142. Punishment for stalking.
+Whoever commits stalking shall be punished with imprisonment up to 3 years or fine up to Rs. 15,000 or both.
+
+If stalking involves:
+(a) Threat to cause death or serious injury: Imprisonment up to 5 years and fine up to Rs. 50,000
+(b) Repeat offense within 5 years: Imprisonment up to 5 years and fine up to Rs. 50,000
+(c) Stalking by impersonation: Imprisonment up to 5 years and fine up to Rs. 50,000
+(d) Online stalking/cyber stalking: Imprisonment up to 5 years and fine up to Rs. 1,00,000
+
+PUNISHMENT: Imprisonment 3-5 years OR fine up to Rs. 15,000-1,00,000 depending on severity
+PENALTY DURATION: Minimum 3 years, up to 5 years for severe cases
+CONSEQUENCES: Criminal record, restraining order, protection order for victim, prohibition from contacting victim, electronic monitoring possible.
+
+Section 143. Harassment defined.
+Harassment is engaging in a course of conduct directed at a specific person, knowing that such conduct is likely to cause that person to experience fear or alarm or to feel harassed, molested, intimidated, threatened, insulted or offended.
+
+Harassment includes:
+(a) Repeated unwanted contact (phone calls, messages, visits, emails);
+(b) Offensive language or comments (sexual, racial, religious);
+(c) Sending unwanted gifts, flowers, or items;
+(d) Commenting on appearance, body, or personal life;
+(e) Making inappropriate remarks or jokes;
+(f) Isolating the person from others;
+(g) Creating false rumors or spreading misinformation;
+(h) Following or watching the person;
+(i) Displaying offensive posters or images;
+(j) Interfering with personal property;
+(k) Making threatening gestures or statements.
+
+Section 144. Punishment for harassment.
+Whoever commits harassment shall be punished with imprisonment up to 2 years or fine up to Rs. 10,000 or both.
+
+If harassment is:
+(a) Sexual in nature: Imprisonment up to 3 years and fine up to Rs. 15,000
+(b) Racial, religious or communal: Imprisonment up to 3 years and fine up to Rs. 15,000
+(c) Repeat offense within 5 years: Imprisonment up to 3 years and fine up to Rs. 20,000
+(d) Against a woman specifically targeted: Imprisonment up to 3 years and fine up to Rs. 20,000
+(e) Involving threats: Imprisonment up to 5 years and fine up to Rs. 50,000
+(f) Online/cyber harassment: Imprisonment up to 3 years and fine up to Rs. 25,000
+
+PUNISHMENT: Imprisonment 2-5 years OR fine up to Rs. 10,000-50,000 depending on nature
+PENALTY DURATION: Minimum 2 years, up to 5 years for serious harassment
+CONSEQUENCES: Criminal record, restraining order, protection order, prohibition from contact, counseling may be mandated.
+
+Section 145. Sexual harassment defined.
+Sexual harassment is an unwelcome act, request, comment or action of a sexual nature that:
+(a) Is made unwelcome or causes offense to the recipient;
+(b) Is made with the intention of violating dignity;
+(c) Creates an intimidating, hostile, degrading, humiliating or offensive environment;
+(d) Affects a person's employment or activities.
+
+Examples include:
+(a) Unwanted physical contact of a sexual nature;
+(b) Sexual comments, jokes, or suggestions;
+(c) Showing pornographic material or sexual images;
+(d) Request for sexual favors;
+(e) Sexual assault or rape;
+(f) Whistling or making sexual noises;
+(g) Displaying nude pictures or cartoons;
+(h) Making sexual advances via email, text or social media;
+(i) Creating a sexually hostile environment;
+(j) Quid pro quo (providing job benefits/promotions in exchange for sexual favors).
+
+Section 146. Punishment for sexual harassment.
+Whoever commits sexual harassment shall be punished with imprisonment up to 2 years or fine up to Rs. 25,000 or both.
+
+Depending on severity:
+(a) Unwanted touching: Imprisonment up to 1 year or fine up to Rs. 10,000
+(b) Serious sexual harassment: Imprisonment 2-3 years and fine up to Rs. 50,000
+(c) Sexual assault or rape: Imprisonment 5 years to life (under Section 64)
+(d) Repeat sexual harassment: Imprisonment up to 3 years and fine up to Rs. 50,000
+(e) By person in position of authority: Imprisonment up to 3 years and fine up to Rs. 50,000
+
+PUNISHMENT: Imprisonment 1-3 years OR fine up to Rs. 10,000-50,000
+CONSEQUENCES: Criminal record, termination from employment/institution possible, restraining order, counseling/rehabilitation programs, civil damages payable to victim.
+
+Section 147. Online harassment and cyberstalking.
+(a) Sending repeated offensive messages, comments, or images;
+(b) Hacking into email or social media accounts;
+(c) Sharing private or intimate images without consent;
+(d) Creating fake profiles impersonating the person;
+(e) Posting offensive comments or humiliating content online;
+(f) Doxxing (sharing personal information online);
+(g) Threats made through online platforms.
+
+PUNISHMENT: Imprisonment up to 3 years or fine up to Rs. 1,00,000 or both.
+If involving intimate images: Imprisonment up to 3 years and mandatory fine.
+
+Section 148. Workplace harassment and bullying.
+Workplace harassment includes:
+(a) Verbal abuse or insulting behavior;
+(b) Physical intimidation or threatening gestures;
+(c) Exclusion from activities or meetings;
+(d) Assigning humiliating tasks;
+(e) Spreading false rumors about work performance;
+(f) Discrimination based on caste, religion, gender, disability;
+(g) Unequal treatment or favoritism;
+(h) Sabotaging work or destroying property;
+(i) Creating hostile work environment.
+
+PUNISHMENT: Imprisonment up to 2 years or fine up to Rs. 20,000 or both.
+Additionally: Compensation to victim by employer, disciplinary action against harasser, reinstatement if fired.
+
+Section 149. Domestic harassment and abuse.
+Harassment or abuse by family members, intimate partners, or cohabitants:
+(a) Verbal abuse, insults, or humiliation;
+(b) Controlling behavior (isolating from friends/family);
+(c) Economic control (withholding money);
+(d) Emotional abuse or psychological torture;
+(e) Threats or intimidation;
+(f) Physical violence or assault;
+(g) Sexual abuse within marriage (marital rape);
+(h) Harassment through children.
+
+PUNISHMENT: Imprisonment up to 3 years or fine up to Rs. 50,000 or both.
+If severe abuse: Imprisonment up to 5 years and fine up to Rs. 1,00,000.
+
+CONSEQUENCES: Criminal record, protection order under domestic violence laws, child custody considerations, compensation from harasser to victim.
+
+Section 150. Protection against harassment.
+(a) Any person subjected to harassment may seek:
+    - Restraining order (from court)
+    - Protection order (restraining contact)
+    - Injunction (stopping specific conduct)
+    - Compensation for damages
+    - Criminal prosecution
+
+(b) Police must register complaint and investigate
+
+(c) Victim may file civil suit for damages
+
+(d) Emergency relief/interim orders available immediately
+
+PROCEDURE FOR REPORTING HARASSMENT:
+1. File complaint with police
+2. Police register First Information Report (FIR)
+3. Investigation conducted
+4. Charge sheet filed if sufficient evidence
+5. Trial and verdict
+6. Sentencing if convicted
+7. Appeal rights available
+
+IMPORTANT NOTES ON HARASSMENT:
+
+- No minimum age of complaint
+- Can be reported anonymously in many cases
+- Medical/psychological evidence strengthens case
+- WhatsApp, email, social media messages are evidence
+- Victim support services available during trial
+- Compensation awarded by court (no specific limit)
+- Criminal record affects future employment, education, visas
+- Some harassment may fall under multiple sections (cumulative sentences possible)
+
+
+PART III — OFFENCES RELATING TO ELECTIONS, PUBLIC SERVANTS, AND ELECTIONS
+
+CHAPTER 8 — OFFENCES RELATING TO ELECTIONS
+
+Section 153. Offences relating to elections.
+Whoever:
+(a) Votes or attempts to vote knowing he is not entitled to vote;
+(b) Obstructs, prevents, or attempts to obstruct any person from voting;
+(c) Destroys or attempts to destroy ballot papers;
+shall be punished with imprisonment up to 5 years or fine up to Rs. 10,000 or both.
+
+PUNISHMENT: Imprisonment up to 5 years OR fine up to Rs. 10,000 OR both
+CONSEQUENCES: Criminal record, ineligibility for voting/public office for specified period.
+
+PART IV — OFFENCES AGAINST PROPERTY
+
+CHAPTER 11 — THEFT, EXTORTION, ROBBERY AND DACOITY
+
+Section 304. Theft defined.
+Theft is the dishonest taking of movable property from the possession of another with the intention of taking it without the consent of the owner.
+
+Section 305. Punishment for theft.
+Whoever commits theft shall be punished with imprisonment up to 3 years or fine up to Rs. 10,000 or both.
+
+PUNISHMENT: Imprisonment up to 3 years OR fine up to Rs. 10,000 OR both
+PENALTY DURATION: Maximum 3 years
+CONSEQUENCES: Criminal record, restitution to owner, affects employment.
+
+Section 306. Extortion defined.
+Extortion is the act of obtaining property, money or valuable security from another person by putting him in fear of death or grievous hurt.
+
+Section 307. Punishment for extortion.
+Whoever commits extortion shall be punished with imprisonment up to 3 years or fine up to Rs. 10,000 or both.
+
+Section 308. Robbery defined.
+Robbery is theft combined with:
+(a) Attempt to cause death or grievous hurt;
+(b) Knowledge that he is likely to cause death or grievous hurt by committing robbery.
+
+Section 309. Punishment for robbery.
+Whoever commits robbery shall be punished with rigorous imprisonment up to 10 years and also fine which may extend to Rs. 50,000.
+
+PUNISHMENT: Rigorous imprisonment up to 10 years AND fine up to Rs. 50,000
+PENALTY DURATION: Maximum 10 years
+CONSEQUENCES: Criminal record, property seized, victim compensation, ineligible for many jobs.
+
+Section 310. Dacoity defined.
+Dacoity is committed when five or more persons commit or attempt to commit a robbery.
+
+Section 311. Punishment for dacoity.
+Whoever commits dacoity shall be punished with rigorous imprisonment from 3 to 10 years and also fine which may extend to Rs. 1,00,000.
+
+PUNISHMENT: Rigorous imprisonment 3 to 10 years AND fine up to Rs. 1,00,000
+PENALTY DURATION: Minimum 3 years to maximum 10 years
+CONSEQUENCES: Criminal record, property forfeiture, victim compensation, organized crime investigation.
+
+CHAPTER 12 — CRIMINAL BREACH OF TRUST AND CHEATING
+
+Section 316. Dishonest or fraudulent intent in the doing of any act relating to the election of a person.
+Whoever dishonestly or fraudulently:
+(a) Makes any false claim regarding election rights;
+(b) Personates another person for election purposes;
+shall be punished with imprisonment up to 2 years or fine up to Rs. 5,000 or both.
+
+Section 317. Criminal breach of trust.
+Whoever, being in any manner entrusted with property, dishonestly misappropriates or converts to his own use that property, commits criminal breach of trust.
+
+PUNISHMENT: Imprisonment up to 7 years AND fine
+PENALTY DURATION: Maximum 7 years
+CONSEQUENCES: Criminal record, compensation to victim, loss of professional licenses.
+
+Section 318. Cheating defined.
+Cheating is fraudulently inducing another person to deliver any property, money or valuable security with the intention of depriving that person of the same.
+
+Section 319. Punishment for cheating.
+Whoever cheats shall be punished with imprisonment up to 7 years or fine up to Rs. 1,00,000 or both.
+
+PUNISHMENT: Imprisonment up to 7 years OR fine up to Rs. 1,00,000 OR both
+PENALTY DURATION: Maximum 7 years
+CONSEQUENCES: Criminal record, restitution to victims, financial fraud investigation.
+
+Section 320. Cheating by personation using computer resource.
+Whoever cheats by personating another person using any computer resource shall be punished with imprisonment up to 3 years and fine up to Rs. 1,00,000.
+
+PUNISHMENT: Imprisonment up to 3 years AND fine up to Rs. 1,00,000
+CONSEQUENCES: Criminal record, computer access restriction, cyber crime record.
+
+CHAPTER 13 — CRIMINAL MISAPPROPRIATION AND CRIMINAL BREACH OF TRUST
+
+Section 321. Fraudulent removal or concealment of property to prevent seizure.
+Whoever fraudulently removes, conceals or transfers any property with the intention of preventing it from being seized or taken by any court or authority, shall be punished with imprisonment up to 2 years or fine up to Rs. 5,000 or both.
+
+PART V — OFFENCES RELATING TO ELECTIONS AND ELECTION COMMISSION
+
+CHAPTER 14 — OFFENCES AGAINST PUBLIC SAFETY
+
+Section 105. Causing death by act endangering life or personal safety.
+(1) Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment up to 2 years or fine up to Rs. 1,00,000 or both.
+
+PUNISHMENT: Imprisonment up to 2 years OR fine up to Rs. 1,00,000 OR both
+CONSEQUENCES: Criminal record, may face civil suit from victim's family.
+
+Section 106. Causing grievous hurt by act endangering life or personal safety.
+(1) Whoever causes any hurt which is designated as grievous by doing any rash or negligent act not amounting to culpable homicide shall be punished with imprisonment up to 6 months or fine up to Rs. 10,000 or both.
+
+PUNISHMENT: Imprisonment up to 6 months OR fine up to Rs. 10,000 OR both
+
+Section 107. Causing hurt by act endangering life or personal safety.
+(1) Whoever causes hurt to any person by doing any rash or negligent act not amounting to an offence under section 106 shall be punished with imprisonment up to 3 months or fine up to Rs. 5,000 or both.
+
+CHAPTER 15 — OFFENCES RELATING TO ELECTIONS
+
+Section 159. Undue influence in elections.
+Whoever directly or indirectly uses, or threatens to use, any force, violence or restraint against any person with the intention of preventing or deterring that person from voting, or inducing him to vote or vote in a particular manner, commits undue influence in elections.
+
+PUNISHMENT: Imprisonment up to 5 years and fine up to Rs. 10,000
+
+Section 160. Personation at elections.
+Whoever personates or attempts to personate any other person for the purpose of voting or causing to vote at any election, shall be punished with imprisonment up to 5 years or fine up to Rs. 10,000 or both.
+
+PUNISHMENT: Imprisonment up to 5 years OR fine up to Rs. 10,000 OR both
+
+Section 161. Bribery.
+Whoever, being an elector or candidate:
+(a) Offers, promises, or gives any valuable thing to any person with the intent of inducing an elector to vote or refrain from voting;
+(b) Solicits or accepts any such valuable thing;
+shall be punished with imprisonment up to 5 years or fine up to Rs. 10,000 or both.
+
+PUNISHMENT: Imprisonment up to 5 years OR fine up to Rs. 10,000 OR both
+CONSEQUENCES: Criminal record, debarred from contesting elections for specified period.
+
+CHAPTER 16 — FALSE EVIDENCE AND OFFENCES AGAINST PUBLIC JUSTICE
+
+Section 191. Giving false evidence.
+Whoever, being legally bound by oath or legal obligation, makes any statement which is false and which he knows or believes to be false or does not believe to be true, commits the offence of giving false evidence.
+
+PUNISHMENT: Imprisonment up to 7 years or fine up to Rs. 1,00,000 or both
+CONSEQUENCES: Criminal record, perjury charge, may face additional contempt charges.
+
+Section 192. Fabricating false evidence.
+Whoever causes any circumstance to exist or makes any false entry in any book, record or document, intending that such circumstance or entry shall be used for evidence, commits fabricating false evidence.
+
+PUNISHMENT: Imprisonment up to 7 years or fine up to Rs. 1,00,000 or both
+
+Section 193. Giving or fabricating false evidence with intent to procure conviction for offence punishable with life imprisonment or death.
+Whoever gives or fabricates any false evidence with intent to procure conviction of any person for an offence which is punishable with death or life imprisonment, shall be punished with imprisonment and fine.
+
+PUNISHMENT: Imprisonment up to life or death penalty depending on outcome
+CONSEQUENCES: Criminal record, permanent loss of credibility.
+
+CHAPTER 17 — OFFENCES RELATING TO ELECTIONS
+
+Section 125. Obstructing lawful work of public servant.
+Whoever, by force or threat, obstructs or attempts to obstruct any public servant in the discharge of his official duties, commits this offence.
+
+PUNISHMENT: Imprisonment up to 6 months or fine up to Rs. 10,000 or both
+CONSEQUENCES: Criminal record, may be charged with additional offences.
+
+PART VI — GENERAL EXCEPTIONS
+
+Section 34. Common Intention.
+When a criminal act is done by several persons, each of such persons, in any of the following cases with a common intention in the commission of that act:
+(a) Each such person is liable for that act in the same manner as if the act were done by him alone.
+
+Section 35. Liability of each person concerned in criminal act for act of any other person.
+When an offence is committed as a result of an abetment, each person concerned in such commission who knew of the circumstances which made it such an offence, is liable to punishment.
+
+CHAPTER 18 — GENERAL PUNISHMENTS
+
+Section 41. Definition of punishment.
+Punishment includes:
+(a) Rigorous imprisonment — with hard labour
+(b) Simple imprisonment — without hard labour
+(c) Fine — monetary penalty
+(d) Death penalty — in specified capital offences
+
+Section 42. Rigorous imprisonment.
+Rigorous imprisonment implies confinement in prison with hard labour for the term of sentence, or life imprisonment as awarded.
+
+Section 43. Simple imprisonment.
+Simple imprisonment means confinement in prison without compulsion to do hard labour, for the term awarded.
+
+Section 44. Fine.
+Fine is a pecuniary penalty, determined by court, which may be paid in installments if court directs.
+
+PENALTIES SUMMARY:
+
+MOST SERIOUS (Death/Life):
+- Murder: Death or life imprisonment
+- Rape of minor: 20+ years to life
+- Rape: 10+ years to life
+
+SERIOUS (5-10 Years):
+- Attempt to murder: Up to 10 years
+- Robbery: Up to 10 years
+- Dacoity: 3-10 years
+- Criminal breach of trust: Up to 7 years
+- Cheating: Up to 7 years
+- False evidence (in capital cases): Up to life
+
+MODERATE (1-5 Years):
+- Hurt: 3 months to 6 months
+- Grievous hurt: Up to 2 years
+- Theft: Up to 3 years
+- Criminal intimidation: Up to 2 years
+- Defamation: Up to 2 years
+
+MINOR (Fines/Short Imprisonment):
+- Simple hurt: Up to 3 months or Rs. 250
+- Traffic violations: Rs. 500-2,000
+
+IMPORTANT UPDATES IN BPS vs IPC:
+
+1. Stronger provisions for crimes against women
+2. Harsher penalties for economic offences (cheating, fraud)
+3. Enhanced punishment for crimes by public servants
+4. Better definition of consent for sexual offences
+5. Stricter provisions for stalking and harassment
+6. Increased fines across most offences
+7. Enhanced provisions for communal crimes
+8. Stronger witness protection and false evidence provisions
